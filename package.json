@@ -1,7 +1,7 @@
 {
-  "name": "notion-doit",
+  "name": "notes",
   "version": "0.0.1",
-  "description": "Use Notion as the CMS for your Hugo DoIt site",
+  "description": "Use Notion as the CMS for your Hugo site",
   "main": "src/index.ts",
   "private": true,
   "license": "GPL-3.0-only",
@@ -26,7 +26,7 @@
     "theme",
     "DoIt"
   ],
-  "author": "HEIGE-PCloud",
+  "author": "brittonhayes",
   "dependencies": {
     "@notionhq/client": "^2.2.15",
     "dotenv": "^16.4.5",
