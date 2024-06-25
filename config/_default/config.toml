@@ -1,4 +1,4 @@
-baseURL = "https://brittonhayes.github.io/notes/"
+baseURL = "https://example.org/"
 languageCode = "en-us"
 title = "notes"
-theme = "doit"
+theme = "DoIt"
